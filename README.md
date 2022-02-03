@@ -27,6 +27,6 @@
 
 ##### Obs: Antes de apertar o botão Knit, certifique-se de que o arquivo Word está fechado. Se não, aparecerá um erro na tela do R.
 
-##### Fonte: (Curso R) [https://blog.curso-r.com/posts/2021-12-23-word-rmarkdown/]
+##### Fonte: [Curso R](https://blog.curso-r.com/posts/2021-12-23-word-rmarkdown/)
 
 
