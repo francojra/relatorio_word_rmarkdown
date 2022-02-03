@@ -23,3 +23,10 @@
 15. Voltando ao RStudio, crie outro arquivo R Markdown, com Word como formato de saída.
 16. Escreva o seu relatório.
 17. Edite o começo do texto, especificando o seu arquivo de referência através de "reference_docx: Template_1.docx" (sim, o arquivo que você acabou de editar!).
+18. Salve o arquivo.
+19. Dê um Knit, apertando no botão do canto superior esquerdo (ou Knit to Word).
+20. Prontinho! Aparecerá na tela o arquivo Word com o seu relatório personalizado como no arquivo de referência!
+
+#### Obs: Antes de apertar o botão Knit, certifique-se de que o arquivo Word está fechado. Se não, aparecerá um erro na tela do R.
+
+
