@@ -1,8 +1,6 @@
 # Relatório Word RMarkdown
 
-### Curso R
-
-### Criando um relatório personalizado no Word através do R Markdown
+### Curso R - Criando um relatório personalizado no Word através do R Markdown
 
 ##### Tutorial
 
@@ -27,6 +25,8 @@
 19. Dê um Knit, apertando no botão do canto superior esquerdo (ou Knit to Word).
 20. Prontinho! Aparecerá na tela o arquivo Word com o seu relatório personalizado como no arquivo de referência!
 
-#### Obs: Antes de apertar o botão Knit, certifique-se de que o arquivo Word está fechado. Se não, aparecerá um erro na tela do R.
+##### Obs: Antes de apertar o botão Knit, certifique-se de que o arquivo Word está fechado. Se não, aparecerá um erro na tela do R.
+
+##### Fonte: (Curso R)[https://blog.curso-r.com/posts/2021-12-23-word-rmarkdown/]
 
 
