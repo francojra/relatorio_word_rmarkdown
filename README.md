@@ -19,3 +19,7 @@
 11. Quando terminar a edição, clique em Ok no canto inferior direito.
 12. Para editar outro elemento do texto, basta clicar em cima desse elemento, e a caixa do elemento será automaticamente selecionada na aba Estilos. Clicamos no link “http://rmarkdown.rstudio.com” e na aba “Estilos” a caixa de Hiperlink foi automaticamente selecionada.
 13. Prossiga como anteriormente, clicando na seta à direita da caixa, e então, em Modificar.
+14. Quando a formatação estiver do jeito que você quiser, salve o arquivo. Aqui estamos usando o nome Template_1.docx. Feche o arquivo.
+15. Voltando ao RStudio, crie outro arquivo R Markdown, com Word como formato de saída.
+16. Escreva o seu relatório.
+17. Edite o começo do texto, especificando o seu arquivo de referência através de "reference_docx: Template_1.docx" (sim, o arquivo que você acabou de editar!).
